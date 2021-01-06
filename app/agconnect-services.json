@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000029149786",
+		"product_id":"736430079244766619",
+		"client_id":"531785895771124352",
+		"client_secret":"62C19A0567A2D4E231CC31229798525D551403F675DC3A0D06D39CF72E48EEEB",
+		"project_id":"736430079244766619",
+		"app_id":"103605631",
+		"api_key":"CgB6e3x9MYkiYd+wPbp9h8GU2LIHgtk6sU9hJaiUU/FCWgX/VFFipSpt5Bl/xgGlvl2q+Da3jRKtCyOCfPU7PtYq",
+		"package_name":"com.furkanozdemir.mapdemo"
+	},
+	"configuration_version":"1.0"
+}
